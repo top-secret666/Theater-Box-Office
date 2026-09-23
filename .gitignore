@@ -1,14 +1,22 @@
+# Editors / IDE
 .drawio-chrome/
 .vs/
 .idea/
-.github/workflows/
 .vscode/
-.env/
-.env.example/
-package.json
-package-lock.json
-scripts/
-routes/
-docker/
-database/
-app/
+
+# Environment (keep .env.example tracked as a template)
+.env
+.env.backup
+.env.*.local
+
+# Dependencies & build
+node_modules/
+vendor/
+/public/build
+/public/hot
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
+.phpunit.result.cache
