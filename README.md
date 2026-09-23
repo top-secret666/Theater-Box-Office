@@ -244,4 +244,7 @@ This project is provided for educational / portfolio use. See repository terms i
 
 <p align="center">
   Built with Laravel · Designed for real theater workflows
+
+  <img width="1600" height="1200" alt="6fdc7d65cc6a351cb046a5f535beb366" src="https://github.com/user-attachments/assets/2b3e44e5-57a6-42bc-b88e-291feab8593b" />
+
 </p>
