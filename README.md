@@ -1,7 +1,7 @@
 # Theater Box Office
 
 <p align="center">
-<img width="969" height="270" alt="Снимок экрана 2026-09-23 120947" src="https://github.com/user-attachments/assets/299d8d03-f791-4561-8a9a-0e102493cb69" />
+<img src="docs/screenshots/01.png" alt="Theater Online — playbill and search" width="860"/>
 </p>
 
 <p align="center">
@@ -39,15 +39,13 @@ The runnable application lives in [`theater_full/`](theater_full/). Domain model
 Dark-themed home screen with hero search, quick-start actions for admins, and a filterable playbill grid (by title, description, director, and sort order).
 
 <p align="center">
-<img width="902" height="536" alt="Снимок экрана 2026-09-23 115728" src="https://github.com/user-attachments/assets/173b64c9-1ee8-4f3d-8a6f-3344808f28d7" />
-</p>
-
+  <img src="docs/screenshots/01-playbill.png" alt="Playbill — search, filters, and show cards" width="860"/>
 ### Show detail
 
 Production page with poster, duration/language, description, and a call-to-action to open upcoming showtimes. Admins get edit and delete actions.
 
 <p align="center">
-<img width="966" height="418" alt="Снимок экрана 2026-09-23 115753" src="https://github.com/user-attachments/assets/f6f98418-f93e-468c-94a7-9e62303f2850" />
+  <img src="docs/screenshots/02-show-detail.png" alt="Show detail page with poster and schedule CTA" width="860"/>
 </p>
 
 ### Tickets & shopping cart
@@ -55,7 +53,7 @@ Production page with poster, duration/language, description, and a call-to-actio
 Ticket detail (seat, price, status) plus the cart of reserved tickets that are not yet attached to an order — with total and **Place order** checkout.
 
 <p align="center">
-<img width="961" height="548" alt="Снимок экрана 2026-09-23 115801" src="https://github.com/user-attachments/assets/9f415bf5-bb97-4e4d-8796-9d917a4cfcc5" />
+  <img src="docs/screenshots/03-ticket-cart.png" alt="Ticket detail and shopping cart checkout" width="860"/>
 </p>
 
 ### Attendance statistics (admin)
@@ -63,7 +61,7 @@ Ticket detail (seat, price, status) plus the cart of reserved tickets that are n
 KPI cards for tickets sold, entrance check-ins, and revenue, with filters by production and date range, plus a per-performance breakdown table.
 
 <p align="center">
-<img width="966" height="353" alt="Снимок экрана 2026-09-23 115833" src="https://github.com/user-attachments/assets/56632837-e8b8-4da8-9eb7-fe1099479771" />
+  <img src="docs/screenshots/04-attendance-stats.png" alt="Admin attendance statistics dashboard" width="860"/>
 </p>
 
 ---
