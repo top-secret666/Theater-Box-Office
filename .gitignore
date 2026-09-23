@@ -1,1 +1,14 @@
 .drawio-chrome/
+.vs/
+.idea/
+.github/workflows/
+.vscode/
+.env/
+.env.example/
+package.json
+package-lock.json
+scripts/
+routes/
+docker/
+database/
+app/
