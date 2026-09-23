@@ -1,10 +1,24 @@
+# Keep only docs/ and theater_full/ at repo root (plus README/.gitignore)
+
+# Root-level project copies (real app lives in theater_full/)
+/app/
+/database/
+/docker/
+/resources/
+/routes/
+/scripts/
+/package.json
+/package-lock.json
+/.env.example
+/.github/
+
 # Editors / IDE
 .drawio-chrome/
 .vs/
 .idea/
 .vscode/
 
-# Environment (keep .env.example tracked as a template)
+# Environment
 .env
 .env.backup
 .env.*.local

@@ -1,8 +1,0 @@
-{
-  "name": "theater-app",
-  "private": true,
-  "scripts": {
-    "dev": "echo \"No frontend build configured. Run Laravel UI or Vite setup locally.\"",
-    "build": "echo \"No frontend build configured. Run production build locally.\""
-  }
-}
